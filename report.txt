@@ -1,0 +1,14 @@
+Invalid Objects Report
+=====================
+
+Total invalid objects: 3
+
+- Icosphere2_geo:
+    Reason: Mesh 'Icosphere2_geo' exceeds max face count: 1616 > 1000
+
+- Icosphere_geo:
+    Reason: Mesh 'Icosphere_geo' has 1 vertex pairs closer than 0.10000000149011612: vertices 22-162: 0.000000
+
+- Light:
+    Reason: Object 'Light' does not end with ['_geo', '_jnt', '_grp', '_cam'].
+

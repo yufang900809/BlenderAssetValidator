@@ -1,0 +1,10 @@
+{
+    "max_faces": 1000,
+    "allowed_name_suffixes": [
+        "_geo",
+        "_jnt",
+        "_grp",
+        "_cam"
+    ],
+    "min_vertex_distance": 0.10000000149011612
+}
